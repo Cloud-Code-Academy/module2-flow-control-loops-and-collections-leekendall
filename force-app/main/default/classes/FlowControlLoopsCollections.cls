@@ -496,5 +496,4 @@ public with sharing class FlowControlLoopsCollections {
         // Return the list of high paid employees
         return result; // Replace null with the variable you used to store the result
     }
-
 }
